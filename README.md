@@ -7,14 +7,17 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
 <br>
+
 - :school: I'm a `graduated` from `Faculty of Computers & Artificial Intelligence` at `Sadat city University`.
 - :student: I’m currently learning `.NET Core`
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1ZOoZQpyhnSUYY5qPaKAbKBTzJDvg-bvo/view?usp=sharing).
-<br>
+<br><br>
 
 <h3 align="center">Connect with me:</h3>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/abdullah-shakdoufa-0b491b236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-shakdoufa-0b491b236" height="30" width="40" /></a>
 <a href="https://www.facebook.com/abdullah.shakdoufa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/abdullah.shakdoufa/" height="30" width="40" /></a>
