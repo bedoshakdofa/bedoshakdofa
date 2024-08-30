@@ -1,7 +1,6 @@
-  <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?					 
- font=Fira+Code&weight=500&size=25&pause=1000&width=435&lines=Hi%2C+i'm+Abdullah+Shakdoufa;Software+Engineer;Backend+Developer" alt="Typing SVG" /></a>
-  </h1>
+<h1 align="center">
+	    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&width=435&lines=Hi%2C+i'm+Abdullah+Shakdoufa;Software+Engineer;Backend+Developer" alt="Typing SVG" /></a>
+</h1>
 <br>	
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
