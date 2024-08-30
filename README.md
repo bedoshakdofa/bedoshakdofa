@@ -26,8 +26,10 @@
 ## 🛠️ My Skills
 <br/>
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-	<a href="https://skillicons.dev" <img src="https://skillicons.dev/icons?i=js,html,css,express.nodejs,git,github,postman,postgres,mongodb,sequelize"/></a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,express,nodejs,git,github,postman,postgres,mongodb,sequelize" />
+  </a>
 </p>
 <br/>
 
