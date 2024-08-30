@@ -1,5 +1,5 @@
 <p align="center">
-	    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&width=435&lines=Hi%2C+i'm+Abdullah+Shakdoufa;Software+Engineer;Backend+Developer" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&width=435&lines=Hi%2C+i'm+Abdullah+Shakdoufa;Software+Engineer;Backend+Developer" alt="Typing SVG" /></a>
 </p>
 <br>	
 
@@ -15,12 +15,13 @@
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1ZOoZQpyhnSUYY5qPaKAbKBTzJDvg-bvo/view?usp=sharing).
 <br><br>
 
-	
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/abdullah-shakdoufa-0b491b236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-shakdoufa-0b491b236" height="30" width="40" /></a>
-<a href="https://www.facebook.com/abdullah.shakdoufa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/abdullah.shakdoufa/" height="30" width="40" /></a>
-</p>
+<div>	
+	<h3 align="center">Connect with me:</h3>
+	<p align="center">
+	<a href="https://www.linkedin.com/in/abdullah-shakdoufa-0b491b236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-shakdoufa-0b491b236" height="30" width="40" /></a>
+	<a href="https://www.facebook.com/abdullah.shakdoufa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/abdullah.shakdoufa/" height="30" width="40" /></a>
+	</p>
+</div>
 
 ## 🛠️ My Skills
 <br/>
