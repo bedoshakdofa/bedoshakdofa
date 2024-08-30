@@ -3,6 +3,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=65F7C0&center=true&width=435&lines=Software+Engineer;Backend+developer" alt="Typing SVG" /></a>
 </p>
 <br>	
+
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
@@ -19,7 +20,7 @@
 <a href="https://www.facebook.com/abdullah.shakdoufa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/abdullah.shakdoufa/" height="30" width="40" /></a>
 </p>
 
-🛠️ My Skills
+## 🛠️ My Skills
 <br/>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
@@ -41,13 +42,7 @@
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
-<summary><h3> 🔥 Streak Stats</h3></summary>
-
-----	
-
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=bedoshakdofa&theme=transparent" alt="GitHub Streak" /></p>
-
-----
 
 </br></br>
 	
