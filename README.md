@@ -3,10 +3,10 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=65F7C0&center=true&width=435&lines=Software+Engineer;Backend+developer" alt="Typing SVG" /></a>
 </p>
 <br>	
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-<br><br>
+<br>
 - :school: I'm a `graduated` from `Faculty of Computers & Artificial Intelligence` at `Sadat city University`.
 - :student: I’m currently learning `.NET Core`
 - :nerd_face: Always `learning new things`.
