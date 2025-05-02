@@ -12,7 +12,7 @@
 - :school: I'm a `graduated` from `Faculty of Computers & Artificial Intelligence` at `Sadat city University`.
 - :student: I’m currently learning `.NET Core`
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1ZOoZQpyhnSUYY5qPaKAbKBTzJDvg-bvo/view?usp=sharing).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1kNpJRwOFFNy3W9mFIfXB2_BxWBgTVfga/view?usp=sharing).
 <br><br>
 
 <div>	
