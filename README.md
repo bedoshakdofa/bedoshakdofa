@@ -10,7 +10,7 @@
 <br><br>
 
 - :school: I'm a `graduated` from `Faculty of Computers & Artificial Intelligence` at `Sadat city University`.
-- :student: I’m currently learning `.NET Core`
+- :student: I’m currently learning `Angular`
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1kNpJRwOFFNy3W9mFIfXB2_BxWBgTVfga/view?usp=sharing).
 <br><br>
@@ -28,7 +28,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,express,nodejs,git,github,postman,postgres,mongodb,sequelize" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,express,nodejs,git,github,postman,postgres,mongodb,java,cs,dotnet" />
   </a>
 </p>
 <br/>
